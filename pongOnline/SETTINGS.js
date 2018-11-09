@@ -1,7 +1,6 @@
 
 
 var SETTINGS = {
-  X: alert("Enter Admin Password"),
   VER : "1.0",
   WIDTH : 1200,
   HEIGHT : 800,
