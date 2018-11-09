@@ -1,5 +1,6 @@
 var SETTINGS = require("../SETTINGS.js");
 var BaseObejct = require("./BaseObject.js");
+var 123 = require("./UserInput.js");
 
 
 var LEFT = 37, UP = 38, RIGHT = 39, DOWN = 40;
@@ -7,7 +8,7 @@ var UNIT = 2;
 
 function Player(id,position){
   BaseObejct.call(this);
-  var color = clrChoice.clr2;
+  var color = 123.clrChoice.clr2;
   for(var i = 0; i < 6; i++ ){
   }
   var xPos;
