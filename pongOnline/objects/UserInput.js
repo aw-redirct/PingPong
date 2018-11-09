@@ -1,3 +1,6 @@
-window.onload= function(e){
+window.onload = function(e){
   var clr = ("Enter Colour");
-}
+  var clrChoice {
+    clr2 : clr
+  }
+
