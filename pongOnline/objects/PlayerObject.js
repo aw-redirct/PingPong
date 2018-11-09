@@ -7,7 +7,7 @@ var UNIT = 2;
 
 function Player(id,position){
   BaseObejct.call(this);
-  var color = clrChoice.clr2;
+  var color = "black";
   for(var i = 0; i < 6; i++ ){
   }
   var xPos;
