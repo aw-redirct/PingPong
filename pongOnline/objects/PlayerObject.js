@@ -8,7 +8,7 @@ window.onload = function(e){
 }
 function Player(id,position){
   BaseObejct.call(this);
-  var color = clr;
+  var color = "black";
   for(var i = 0; i < 6; i++ ){
   }
   var xPos;
