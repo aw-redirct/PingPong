@@ -3,12 +3,10 @@ var BaseObejct = require("./BaseObject.js");
 
 var LEFT = 37, UP = 38, RIGHT = 39, DOWN = 40;
 var UNIT = 2;
-window.onload = function(e){
-  var clr = ("Enter Colour");
-}
+
 function Player(id,position){
   BaseObejct.call(this);
-  var color = clr;
+  var color = "black";
   for(var i = 0; i < 6; i++ ){
   }
   var xPos;
