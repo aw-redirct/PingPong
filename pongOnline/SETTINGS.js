@@ -12,11 +12,11 @@ var SETTINGS = {
     GAP : 50
   },
   BALL : {
-    WIDTH : 200,
-    HEIGHT : 200,
+    WIDTH : 25,
+    HEIGHT : 25,
   },
   NET : {
-    WIDTH : 6
+    WIDTH : 2
   },
   SCORE : {
     Y : 40,
@@ -24,11 +24,11 @@ var SETTINGS = {
     GAP : 50
   },
   EDGE_SHOOT_ANGLE_ADJUST : 10,
-  EDGE_ANGLE : 6,
-  STRAIGHT_ADJUST : 7,
-  STRATGHT_ANGLE : 7,
-  SERVE_ANGLE : 15,
-  GOAL : 15
+  EDGE_ANGLE : 1,
+  STRAIGHT_ADJUST : 8,
+  STRATGHT_ANGLE : 3,
+  SERVE_ANGLE : 89,
+  GOAL : 100
 };
 SETTINGS.CLIENT_SETTINGS = {
   VER : SETTINGS.VER,
