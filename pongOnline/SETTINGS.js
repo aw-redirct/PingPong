@@ -12,8 +12,8 @@ var SETTINGS = {
     GAP : 25
   },
   BALL : {
-    WIDTH : 50,
-    HEIGHT : 50,
+    WIDTH : 10,
+    HEIGHT : 10,
   },
   NET : {
     WIDTH : 6
@@ -28,7 +28,7 @@ var SETTINGS = {
   STRAIGHT_ADJUST : 7,
   STRATGHT_ANGLE : 7,
   SERVE_ANGLE : 15,
-  GOAL : 5
+  GOAL : 15
 };
 SETTINGS.CLIENT_SETTINGS = {
   VER : SETTINGS.VER,
