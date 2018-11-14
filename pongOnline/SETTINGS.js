@@ -9,7 +9,7 @@ var SETTINGS = {
   PLAYER : {
     WIDTH : 20,
     HEIGHT : 165, //165
-    GAP : 25
+    GAP : 50
   },
   BALL : {
     WIDTH : 200,
