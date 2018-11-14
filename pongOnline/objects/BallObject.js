@@ -21,7 +21,7 @@ function Ball(player0Id, player1Id){
     y : SETTINGS.HEIGHT/2,
     width : SETTINGS.BALL.WIDTH,
     height : SETTINGS.BALL.HEIGHT,
-    color : {fill:"#000000"}
+    color : {fill:"blue"}
   };
 }
 Ball.prototype = new BaseObejct();
